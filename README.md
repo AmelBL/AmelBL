@@ -7,9 +7,9 @@
 ## :sassy_man:  About me
 
 - 👋 Hi, I’m @AmelBL,
-- 🧠 I am specialized in combinatorial optimization and machine learning for embedded systems and computer networks,
-- 👀 I’m interested in problem solving,
-- 🌱 I’m currently learning Web developmenet, I use Django for Backend and React JS for Frontend. I do some Web designing using Figma,
+- 🧠 I specialize in combinatorial optimization and machine learning for embedded systems and computer networks,
+- 👀 I’m interested in Artificial Intelligence, 
+- 🌱 I’m currently learning Web developmenet, Django for Backend and React JS for Frontend. I do some Web designing using Figma,
 - 💬 Ask me about ``` topics = [ "Combinatorial optimization", "Python", "Java"] ```,
 - 💞️ I’m looking to collaborate on any innovative projects,
 
@@ -46,6 +46,21 @@
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
+  &emsp; 
+  <a href="#"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+  </a> 
+</p>
+
+### 🧰 Frameworks and Libraries
+
+<p align="center">
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&style=plastic&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&style=plastic&logo=django&logoColor=white"></a>
+
 </p>
 
 ### 👉 Frontend Development
@@ -57,18 +72,16 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/react/" target="_blank">
-    <img alt="React JS" src="https://img.shields.io/badge/React%20JS%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
-  </a> 
+  </a>  
   
 </p>
 
  ### 👉 Software & Tools
  
 <p align="center">
-  &emsp;
+    &emsp;
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white"></a>
+    &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -82,6 +95,7 @@
     <a href="#"><img alt="Packet Tracer" src="https://img.shields.io/badge/Packet%20Tracer-%235586A4.svg?style=plastic&logo=cisco&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GNS3" src="https://img.shields.io/badge/GNS3-%235586A4.svg?style=plastic"></a>
+	
 </p>
 
  ### 👉 IDEs
