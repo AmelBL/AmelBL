@@ -11,7 +11,7 @@
 - 👀 I’m interested in Artificial Intelligence, 
 - 🌱 I’m currently learning Web developmenet, Django for Backend and React JS for Frontend. I do some Web designing using Figma,
 - 💬 Ask me about ``` topics = [ "Combinatorial optimization", "Python", "Java"] ```,
-- 💞️ I’m looking to collaborate on any innovative projects,
+- 💞️ I’m looking to collaborate on any innovative ideas,
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
