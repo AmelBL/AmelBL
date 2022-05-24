@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @AmelBL,
 - 🧠 I specialize in combinatorial optimization and machine learning for embedded systems and computer networks,
 - 👀 I’m interested in Artificial Intelligence, 
-- 🌱 I’m currently learning Web developmenet, Django for Backend and React JS for Frontend. I do some Web designing using Figma,
+- 🌱 I’m currently learning Web developmenet, Django for Backend and React JS for Frontend. I do some Web design using Figma,
 - 💬 Ask me about ``` topics = [ "Combinatorial optimization", "Python", "Java"] ```,
 - 💞️ I’m looking to collaborate on any innovative ideas,
 
