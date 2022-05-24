@@ -52,17 +52,6 @@
   </a> 
 </p>
 
-### 🧰 Frameworks and Libraries
-
-<p align="center">
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&style=plastic&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&style=plastic&logo=django&logoColor=white"></a>
-
-</p>
-
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -74,6 +63,17 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a>  
   
+</p>
+
+### 👉 Frameworks and Libraries
+
+<p align="center">
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?style=plastic&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?style=plastic&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&style=plastic&logo=react&logoColor=61DAFB"></a>
+    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&style=plastic&logo=django&logoColor=white"></a>
+
 </p>
 
  ### 👉 Software & Tools
