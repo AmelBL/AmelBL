@@ -95,6 +95,10 @@
     <a href="#"><img alt="Packet Tracer" src="https://img.shields.io/badge/Packet%20Tracer-%235586A4.svg?style=plastic&logo=cisco&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GNS3" src="https://img.shields.io/badge/GNS3-%235586A4.svg?style=plastic"></a>
+  &emsp;
+    <a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-%235586A4.svg?style=plastic"></a>
+  &emsp;
+    <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-%235586A4.svg?style=plastic"></a>
 	
 </p>
 
